@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chriswarrilow
-- 👀 I’m interested in ...movies, video games and football, go hawks!
+- 👀 I’m interested in ...movies, video games,coding and football, go hawks! 
 - 🌱 I’m currently learning ... python 3
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... meth0d@comcast.net
